@@ -1,6 +1,7 @@
 # Getting started with MyCustom
 
 ## 1. Install
+0.5. Please download the respective newest version of the application. All versions of the program are listed below.
 1. Install BetterDiscord from betterdiscord.app.
 2. Download **MyCustom.plugin.js** (it's in the zip).
 3. In Discord, go to User Settings → BetterDiscord → Plugins → **Open Plugins Folder**, and drop the file in. 
