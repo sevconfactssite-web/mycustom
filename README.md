@@ -3,9 +3,10 @@
 ## 1. Install
 1. Install BetterDiscord from betterdiscord.app.
 2. Download **MyCustom.plugin.js** (it's in the zip).
-3. In Discord, go to User Settings → BetterDiscord → Plugins → **Open Plugins Folder**, and drop the file in.
+3. In Discord, go to User Settings → BetterDiscord → Plugins → **Open Plugins Folder**, and drop the file in. 
 4. Switch **MyCustom** on.
 -# Upgrading from Customizant? Delete the old Customizant.plugin.js first. Your emojis, fonts and settings carry over.
+(Stuck? Check https://www.youtube.com/watch?v=opcJOPKWJb8 (skip to 1:10))
 
 ## 2. Send your first message
 1. Type `(wave/hello everyone)` and press **Enter**.
